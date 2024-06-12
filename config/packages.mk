@@ -7,3 +7,6 @@ PRODUCT_PACKAGES += \
     FOSSBrowser \
     Glimpse
 endif
+
+PRODUCT_PACKAGES += \
+    Datura
